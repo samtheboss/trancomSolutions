@@ -1,4 +1,4 @@
-package com.smartApps.tracomSolutions.exception;
+package com.smartApps.tracomSolutions.exceptions;
 
 public class BranchNotFountException extends  RuntimeException{
     public BranchNotFountException(String branch_not_found) {
