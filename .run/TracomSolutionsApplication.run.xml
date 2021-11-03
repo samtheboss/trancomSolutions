@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TracomSolutionsApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="com.smartApps.tracomSolutions.TracomSolutionsApplication" />
+    <module name="tracomSolutions - Copy" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.smartApps.tracomSolutions.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
