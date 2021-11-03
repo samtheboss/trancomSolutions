@@ -1,0 +1,8 @@
+*one of the main advantage of Hibernate jpa framework over jdbc is that Hibernate jpa data is represented
+    by classes  and objects rather than by tables and records as in jdbc
+*Hibernate JPA allows you to avoid writing DDL in a database specific dialect of SQL.
+ Instead you write "mappings" in XML, or using Java annotations.
+*Hibernate JPA allows you to avoid writing DML in the database specific dialect of SQL.
+* Hibernate JPA allows you to load and save Java objects and graphs without any DML language at all.
+*When you do need to perform queries JPQL allows you to express
+ the queries in terms of the Java entities rather than the (native) SQL tables and columns.
